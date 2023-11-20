@@ -7,7 +7,7 @@ A personal forked version of [Danganronpa Tools](https://github.com/vn-tools/dan
 [Personal fork of Danganronpa Tools](https://github.com/morgana-x/danganronpa-tools) used in these dumps 
 
 # Notice!
-Please only use these files for reference and finding out which files contain which text / event
+Please only use these files for reference when modding and finding out which files contain which text / event
 
 Use CTRL + F to search text in notepad or whatever text editor you like
 
