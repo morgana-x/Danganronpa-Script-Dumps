@@ -1,8 +1,8 @@
 # Danganronpa-Script-Dumps
 
-Files containing .lin files from the US/English PC ports of Danganronpa 1 and 2, using a personal forked version of (Danganronpa Tools)[https://github.com/vn-tools/danganronpa-tools]
+Files containing .lin files from the US/English PC ports of Danganronpa 1 and 2, using a personal forked version of [Danganronpa Tools](https://github.com/vn-tools/danganronpa-tools)
 
-(Personal fork of Danganronpa Tools)[https://github.com/morgana-x/danganronpa-tools] used in these dumps 
+[Personal fork of Danganronpa Tools](https://github.com/morgana-x/danganronpa-tools) used in these dumps 
 
 # Notice!
 Please only use these files for reference and finding out which files contain which text / event
