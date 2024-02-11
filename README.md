@@ -4,7 +4,7 @@ Files containing dumped .lin file contents from the US/English PC ports of Danga
 
 A personal forked version of [Danganronpa Tools](https://github.com/vn-tools/danganronpa-tools) was used to dump these.
 
-[Personal fork of Danganronpa Tools](https://github.com/morgana-x/danganronpa-tools) used in these dumps 
+[Personal fork of Danganronpa Tools](https://github.com/morgana-x/danganronpa-lin-compiler-v2) used in these dumps 
 
 # Notice!
 Please only use these files for reference when modding and finding out which files contain which text / event
